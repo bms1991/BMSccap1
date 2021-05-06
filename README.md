@@ -1,2 +1,2 @@
 # BMSccap1
-First trial for capstone assignment
+Capstone assignment for IBM data science certificate
